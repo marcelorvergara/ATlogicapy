@@ -1,0 +1,37 @@
+7
+5
+Modelo do veículo
+Custo total de compra
+Custo total de impostos
+Consumo médio de combustível (Km/l)
+Custos com seguro
+Chevrolet Ônix
+R$36.000,00
+R$1.400,00
+11,8
+R$1.600,00
+Ford Fiesta
+R$32.000,00
+R$1.300,00
+13,5
+R$1.800,00
+VW Fox
+R$31.000,00
+R$1.450,00
+12,3
+R$1.300,00
+VW Polo
+R$41.000,00
+R$1.600,00
+13,5
+R$1.500,00
+Hyundai HB20
+R$40.000,00
+R$1.200,00
+11,6
+R$1.200,00
+Renault Sandero
+R$30.000,00
+R$1.300,00
+12,8
+R$1.900,00
